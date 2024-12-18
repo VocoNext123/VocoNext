@@ -1,4 +1,4 @@
-Change the paths accordingly in [config.json]()
+Change the paths accordingly in [config.json](https://github.com/VocoNext123/VocoNext/blob/main/config.json)
 
 ## Training
 ```
